@@ -1,9 +1,6 @@
 
-# Complete Mern Social Media project
-
-A MERN stack based project on social media application with Realtime Chat. It is completely working project. Its' completely responsive application. MongoDB Express React NodeJs socket-io are user in this project
-
-
+# Connectify: A Social Media Web App
+A platform designed for real-time interaction and content sharing.
 
 ## Features
 
